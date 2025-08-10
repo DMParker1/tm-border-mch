@@ -2,7 +2,7 @@
 
 ## Background
 
-Shoklo Malaria Research Unit (SMRU) has had a major focus on reproductive health in border communities on the Thailand–Myanmar border for decades.  
+Shoklo Malaria Research Unit (SMRU) has had a major focus on reproductive health in border communities on the Thailand–Myanmar border for decades, led for many years by [Rose McGready](https://drrosemcgreadyfoundation.org.au/).
 
 One of the rewarding outcomes of the METF mapping work was linking many of the home communities of pregnant women who had been making their way to SMRU migrant antenatal care (ANC) clinics over the years. Prior to METF, this was a bit of a black box — women would arrive, often sharing harrowing stories of how far and how long they had traveled, sometimes entirely on foot.
 
