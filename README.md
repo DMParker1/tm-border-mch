@@ -12,7 +12,7 @@ A student visitor, [Eric Steinbrook](https://medicine.yale.edu/profile/eric-stei
 
 *Maps indicating catchment areas for the clinics over time. Each of the four clinics is indicated by a different color scheme. The ellipses are standard deviational ellipses (with 2 and 3 standard deviations), with the darker circle representing roughly 98% of people’s home villages for that specific clinic and the lighter circle representing 99.9% of people’s home villages. WPA (green) and MKT (blue) provided both antenatal care and skilled birth attendants, and MRC (yellow) and WAL (orange) provided antenatal care. These ellipses were originally generated using CrimeStat; a similar process can now be done in R using the [SDEtool](https://github.com/parker-group/SDEtool).*  
 
-*Photo: Supplemental material from Steinbrook et al. 2021. See citation below.*
+*Map from supplemental material in Steinbrook et al. 2021. See citation below.*
 
 
 
