@@ -1,12 +1,10 @@
 # Maternal & Child Health on the Thailand–Myanmar Border
 
-## Background
+For decades, the Shoklo Malaria Research Unit (SMRU) has provided reproductive and maternal health services to migrant, refugee, and border communities along the Thailand–Myanmar border, with much of this work led by Professor [Rose McGready](https://drrosemcgreadyfoundation.org.au/).
 
-Shoklo Malaria Research Unit (SMRU) has had a major focus on reproductive health in border communities on the Thailand–Myanmar border for decades, led for many years by Professor [Rose McGready](https://drrosemcgreadyfoundation.org.au/).
+A recurring challenge has been geography. Pregnant women often traveled considerable distances to reach antenatal care (ANC), sometimes entirely on foot, but the locations of many of their home communities were difficult to identify systematically.
 
-One of the rewarding outcomes of the METF mapping work was linking many of the home communities of pregnant women who had been making their way to SMRU migrant antenatal care (ANC) clinics over the years. Prior to METF, this was a bit of a black box — women would arrive, often sharing harrowing stories of how far and how long they had traveled, sometimes entirely on foot.
-
-A student visitor, [Eric Steinbrook](https://medicine.yale.edu/profile/eric-steinbrook/), worked with ANC handwritten records and local Karen staff to cross-validate and link these records to the METF database. This enabled us to measure the rough distances pregnant women had traveled over time.
+The expansion of geographic mapping through the METF program created an opportunity to better understand these journeys. A student visitor, [Eric Steinbrook](https://medicine.yale.edu/profile/eric-steinbrook/), worked with handwritten ANC records and local Karen staff to cross-validate village names and link them to the METF geographic database. This made it possible to examine how far women traveled for care, how clinic catchment areas changed over time, and how geographic access was associated with patterns of care and pregnancy outcomes.
 
 ![Maps indicating catchment areas for the clinics over time.](SDEs_PregTravel.png)  
 
