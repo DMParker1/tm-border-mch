@@ -48,8 +48,6 @@ The expansion of geographic mapping through the METF program created an opportun
 
 ---
 
----
-
 ## 🔗 Related Repositories
 
 These repositories connect different parts of my spatial epidemiology research:
