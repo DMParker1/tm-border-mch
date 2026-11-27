@@ -114,6 +114,26 @@ The relationship between these research programs is therefore both methodologica
 This also highlights the importance of linking community-based services to referral systems and facilities capable of providing more specialized care.
 
 ---
+## Related Publications
+
+- **“The boss took the chilies not me”, Homebirth in undocumented Myanmar migrant women: A mixed methods study of Strengthening Migrant Access to Reproductive Healthcare in Thailand (SMARH-T) initiative.**  
+  Gilder ME, Aung JKK, Thwin MM, Misa P, Theint MMM, Wai NS, et al. *PLOS Global Public Health*. 2026;6(11):e0006255.  
+  [https://doi.org/10.1371/journal.pgph.0006255](https://doi.org/10.1371/journal.pgph.0006255)  
+  [Analysis code and documentation](https://github.com/parker-group/SMRU_homebirth)
+
+- **Distance matters: barriers to antenatal care and safe childbirth in a migrant population on the Thailand–Myanmar border from 2007 to 2015, a pregnancy cohort study.**  
+  Steinbrook E, Min MC, Kajeechiwa L, Wiladphaingern J, Kho Paw M, Paw Jay Pimanpanarak M, Parker DM, et al. *BMC Pregnancy and Childbirth*. 2021;21:802.  
+  [https://doi.org/10.1186/s12884-021-04276-5](https://doi.org/10.1186/s12884-021-04276-5)
+
+- **Trends and birth outcomes in adolescent refugees and migrants on the Thailand–Myanmar border, 1986–2016: an observational study.**  
+  Parker AL, Parker DM, Zan BN, et al. *Wellcome Open Research*. 2018;3:62.  
+  [https://doi.org/10.12688/wellcomeopenres.14613.1](https://doi.org/10.12688/wellcomeopenres.14613.1)
+
+- **Empirical lessons regarding contraception in a protracted refugee setting: A descriptive study from Maela camp on the Thai–Myanmar border, 1996–2015.**  
+  Srikanok S, Parker DM, Parker AL, Lee T, Min AM, Ontuwong P, Tan SO, Sirinonthachai S, McGready R. *PLOS ONE*. 2017;12(2):e0172007.  
+  [https://doi.org/10.1371/journal.pone.0172007](https://doi.org/10.1371/journal.pone.0172007)
+
+---
 
 ## 🔗 Related Repositories
 
