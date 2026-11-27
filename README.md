@@ -57,7 +57,7 @@ Outreach teams operating from the two established clinics at Wang Pha and Maw Ke
 
 Labor and delivery services, however, continued to be provided at the fixed clinics. Although women could receive routine antenatal care closer to home, they still needed to travel to healthcare facilities for skilled birth attendance.
 
-In collaboration with Mary Ellen Gilder, Rose McGready, and colleagues, we investigated factors associated with homebirth among women receiving outreach ANC. This mixed-methods study combined statistical analyses of routine clinical records with postpartum surveys and qualitative interviews to better understand women's experiences, preferences, and barriers to facility-based childbirth.
+In collaboration with Drs Mary Ellen Gilder and Rose McGready, and several other colleagues, we investigated factors associated with homebirth among women receiving outreach ANC. This mixed-methods study combined statistical analyses of routine clinical records with postpartum surveys and qualitative interviews to better understand women's experiences, preferences, and barriers to facility-based childbirth.
 
 The quantitative component used mixed-effects logistic regression to investigate individual-level predictors of homebirth while accounting for clustering by outreach site.
 
